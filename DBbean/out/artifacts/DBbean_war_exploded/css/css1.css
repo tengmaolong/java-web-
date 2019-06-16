@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    text-align: center;
+}
+
+#container{
+    width:100%;
+    height: 100%;
+    background-color: #FFFFFF;
+    border: none;
+    background: url("3333.jpg") no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+}
+
+#top{
+    margin-bottom: 5px;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+}
+
+#center{
+    width: 100%;
+    height: 500px;
+    border: none;
+    text-align: center;
+    overflow-y: auto;
+}
+
+#bottom{
+    clear: both;
+    width: 100%;
+    height: 50px;
+    border: none;
+    text-align: center;
+
+}
+
